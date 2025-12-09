@@ -1,0 +1,45 @@
+# Core Framework & AI
+black==25.11.0
+pytest==8.3.3
+
+# Development
+prometheus-client==0.23.1
+deepeval==3.7.2
+
+# Evaluation
+gitpython==3.1.45
+unidiff==0.7.5
+tenacity==9.0.0
+pydantic-settings==2.11.0
+pydantic==2.12.4
+python-dotenv==1.2.1
+
+# Utilities
+pandas==2.3.3
+plotly==6.5.0
+streamlit==1.51.0
+
+# Frontend
+pygments==2.19.2
+lizard==1.17.10
+radon==6.0.1
+tree-sitter==0.23.0
+
+# Code Analysis Tools
+atlassian-python-api==4.0.7
+python-gitlab==4.11.1
+PyGithub==2.8.1
+
+# Platform APIs
+sentence-transformers==3.1.1
+langchain-chroma==1.0.0
+chromadb==1.1.0
+
+# RAG & Vector Storage
+tiktoken==0.7.0
+anthropic==0.39.0
+openai==2.8.1
+langchain-community==0.4.1
+langchain-openai==1.0.3
+langchain==1.0.8
+crewai==1.5.0
