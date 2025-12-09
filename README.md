@@ -1,7 +1,7 @@
 # AI-Agentic Pull Request Reviewer
 
 A fully autonomous multi-agent AI system for reviewing Pull Requests and Merge Requests across GitHub, GitLab, and Bitbucket.  
-It combines **RAG**, **multi-agent orchestration**, **self-reflection**, and **static code analysis** to produce high-quality, actionable code reviews.
+It combines **RAG**, **multi-agent orchestration** to produce high-quality, actionable code reviews.
 
 ---
 
